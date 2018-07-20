@@ -23,6 +23,4 @@ public class Quote {
         this.ticker = ticker;
         this.price = new BigDecimal(price, MATH_CONTEXT);
     }
-
-
 }
